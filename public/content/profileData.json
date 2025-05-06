@@ -1,0 +1,308 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "rafius97",
+    "displayName": "Rafael Romero",
+    "profession": "Frontend & Blockchain Developer",
+    "location": null,
+    "pronouns": null,
+    "byline": "Frontend Web3 Developer & Blockchain Developer",
+    "website": null,
+    "websiteURL": null,
+    "about": "Hello there! I'm Rafael, a dedicated web developer with a strong focus on blockchain and Web3 technologies. With over three years of experience in the field, I'm passionate about learning new technologies. Proficient in React and Solidity, I'm committed to building innovative and secure solutions. Experienced in important protocols in the space.\\\n\\\nCurrent preferred stack:\n\nFrontend - Web3:\n\n* React + Typescript\n\n* Tailwindcss + Shadcn UI\n\n* Viem + Wagmi  + RainbowKit\n\n* Vite\n\n* Biome\n\nBlockchain - Solidity:\n\n* Hardhat + Hardhat-deploy\n\n* Mocha + Chai + Typescript\n\n* Solhint\n\n* Slither",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Side Projects",
+      "Education",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Certifications",
+      "Contact",
+      "Teams"
+    ]
+  },
+  "projects": [],
+  "sideProjects": [
+    {
+      "id": "goi9jUwBH2c82r9GlZVD",
+      "year": "2021",
+      "heading": "NoLossLottery",
+      "url": "https://github.com/rafael-ab/NoLossLottery",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "NoLossLottery",
+      "company": ""
+    },
+    {
+      "id": "DLFP3iXLhuZjepgMoKof",
+      "year": "2021",
+      "heading": "BlockToWin",
+      "url": "https://blocktowin.netlify.app/",
+      "collaborators": [],
+      "description": "Platform that allows you to submit documents through Binance Smart Chain and IPFS, so you can easily verify if your document is unique.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "BlockToWin",
+      "company": ""
+    },
+    {
+      "id": "kmHvwZsgHu77Hopj1A3P",
+      "year": "2021",
+      "heading": "NFT Marketplace",
+      "url": "https://github.com/rafael-ab/nftmarketplace",
+      "collaborators": [],
+      "description": "Simple NFT (ERC-721 and ERC-1155) Marketplace that you can buy and sell NFTs\n\nHighlighted feature: accept offers with NFTs using NFT20",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "NFT Marketplace",
+      "company": ""
+    },
+    {
+      "id": "aMrG3jbr1ORrBA6YKm73",
+      "year": "2021",
+      "heading": "ChocoStaker",
+      "url": "https://github.com/rafael-ab/ChocoStaker",
+      "collaborators": [],
+      "description": "A staking contract based on MasterChef from Sushiswap",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "ChocoStaker",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "7T2PuTy1MnE5sRNXSzj7",
+      "year": "2023 — Now",
+      "heading": "Blockchain Developer at Nuklai",
+      "url": "https://www.nuklai.io/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Blockchain Developer",
+      "company": "Nuklai",
+      "location": "Remote"
+    },
+    {
+      "id": "1gEGNnlk9HclJnGWwkNH",
+      "year": "2021 — 2023",
+      "heading": "Blockchain Developer at AllianceBlock",
+      "url": "https://www.linkedin.com/company/nexerafoundation/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Blockchain Developer",
+      "company": "AllianceBlock",
+      "location": "Remote"
+    },
+    {
+      "id": "hSdlmKiG5opNifexqOFo",
+      "year": "2021 — 2022",
+      "heading": "Blockchain Developer at CUB3",
+      "url": "https://www.linkedin.com/company/cub3engagement/",
+      "collaborators": [],
+      "description": "I served and cooperated in mutiple projects as part-time:\n\n* Developed fun blockchain puzzle game, once 9 tiles puzzle is completed, you won a prize\n\n* Developed a NFT marketplace and integrated Shopify to buy NFT via Shopify\n\n* Researched on Flow blockchain implementation\n\nDevelopment Stack:\n\n* Frontend: Next.js, Typescript, Tailwindcss, Ethers.js, Web3React\n\n* Backend: Node.js, Typescript, Hapi.js, Prisma, Piñata, Magic Link, Shopify API, Ethers.js\n\n* Blockchain: Hardhat, Ethers.js, Typescript, hardhat-deploy",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Blockchain Developer",
+      "company": "CUB3",
+      "location": "Remote"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "ukcggDQ6zY8Hs1JosFZd",
+      "year": "2015 — 2019",
+      "heading": "Computer Engineering at Universidad Politécnica Territorial de los Llanos (UPTLL) \"Juana Ramírez\"",
+      "url": "https://www.uptllanos.net.ve/inicio/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "education",
+      "degree": "Computer Engineering",
+      "school": "Universidad Politécnica Territorial de los Llanos (UPTLL) \"Juana Ramírez\"",
+      "location": "Venezuela"
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "kZpAlUXgYbPdzLXaLOFT",
+      "platform": "Telegram",
+      "handle": "rafius97",
+      "url": "https://t.me/rafius97"
+    },
+    {
+      "id": "B1yYXg3Pso31vvKT8IgZ",
+      "platform": "GitHub",
+      "handle": "rafael-ab",
+      "url": "https://github.com/rafael-ab"
+    },
+    {
+      "id": "vbtklgbUKYNhv9Q2aJ32",
+      "platform": "LinkedIn",
+      "handle": "raerocor97",
+      "url": "https://linkedin.com/in/raerocor97"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "7T2PuTy1MnE5sRNXSzj7",
+          "year": "2023 — Now",
+          "heading": "Blockchain Developer at Nuklai",
+          "url": "https://www.nuklai.io/",
+          "collaborators": [],
+          "description": "Nuklai Marketplace:\n\n* Collaborated with frontend team to implement new designs, add new features, and maintaining platform\n\n* Added tests, maintaining and added new features to V2 smart contracts\n\nNuklai Bitcoin Campaign:\n\n* Worked together with team to implement designs, features...\n\n* Wrote, tested and deployed smart contract to fetch BTC/USD using Chainlink Oracle and Chainlink Automation's Upkeep\n\nNuklai Wallet:\n\n* Collaborated with frontend team to implement new designs\n\n* Integrated SDK and VM based on Avalanche subnet",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Blockchain Developer",
+          "company": "Nuklai",
+          "location": "Remote"
+        },
+        {
+          "id": "1gEGNnlk9HclJnGWwkNH",
+          "year": "2021 — 2023",
+          "heading": "Blockchain Developer at AllianceBlock",
+          "url": "https://www.linkedin.com/company/nexerafoundation/",
+          "collaborators": [],
+          "description": "Bridge: served as a Web3 developer on the Bridge project\n\n* For Bridge V1, served as a maintainer by fixing common issues, and adding some new features\n\n* For Bridge V2, implemented most of the V2 designs and adding new features\n\nLMaaS: served as a Web3 developer, maintaining frontend for client and admin side\n\nDataTunnel: served as a Web3/Blockchain developer\n\n* Maintained frontend in general\n\n* Collaborated with frontend team to implement new designs for DataTunnel\n\n* Added tests, maintained and added new features to already developed V2 smart contracts",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Blockchain Developer",
+          "company": "AllianceBlock",
+          "location": "Remote"
+        },
+        {
+          "id": "hSdlmKiG5opNifexqOFo",
+          "year": "2021 — 2022",
+          "heading": "Blockchain Developer at CUB3",
+          "url": "https://www.linkedin.com/company/cub3engagement/",
+          "collaborators": [],
+          "description": "I served and cooperated in mutiple projects as part-time:\n\n* Developed fun blockchain puzzle game, once 9 tiles puzzle is completed, you won a prize\n\n* Developed a NFT marketplace and integrated Shopify to buy NFT via Shopify\n\n* Researched on Flow blockchain implementation\n\nDevelopment Stack:\n\n* Frontend: Next.js, Typescript, Tailwindcss, Ethers.js, Web3React\n\n* Backend: Node.js, Typescript, Hapi.js, Prisma, Piñata, Magic Link, Shopify API, Ethers.js\n\n* Blockchain: Hardhat, Ethers.js, Typescript, hardhat-deploy",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Blockchain Developer",
+          "company": "CUB3",
+          "location": "Remote"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "goi9jUwBH2c82r9GlZVD",
+          "year": "2021",
+          "heading": "NoLossLottery",
+          "url": "https://github.com/rafael-ab/NoLossLottery",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "NoLossLottery",
+          "company": ""
+        },
+        {
+          "id": "DLFP3iXLhuZjepgMoKof",
+          "year": "2021",
+          "heading": "BlockToWin",
+          "url": "https://blocktowin.netlify.app/",
+          "collaborators": [],
+          "description": "Platform that allows you to submit documents through Binance Smart Chain and IPFS, so you can easily verify if your document is unique.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "BlockToWin",
+          "company": ""
+        },
+        {
+          "id": "kmHvwZsgHu77Hopj1A3P",
+          "year": "2021",
+          "heading": "NFT Marketplace",
+          "url": "https://github.com/rafael-ab/nftmarketplace",
+          "collaborators": [],
+          "description": "Simple NFT (ERC-721 and ERC-1155) Marketplace that you can buy and sell NFTs\n\nHighlighted feature: accept offers with NFTs using NFT20",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "NFT Marketplace",
+          "company": ""
+        },
+        {
+          "id": "aMrG3jbr1ORrBA6YKm73",
+          "year": "2021",
+          "heading": "ChocoStaker",
+          "url": "https://github.com/rafael-ab/ChocoStaker",
+          "collaborators": [],
+          "description": "A staking contract based on MasterChef from Sushiswap",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "ChocoStaker",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "ukcggDQ6zY8Hs1JosFZd",
+          "year": "2015 — 2019",
+          "heading": "Computer Engineering at Universidad Politécnica Territorial de los Llanos (UPTLL) \"Juana Ramírez\"",
+          "url": "https://www.uptllanos.net.ve/inicio/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "education",
+          "degree": "Computer Engineering",
+          "school": "Universidad Politécnica Territorial de los Llanos (UPTLL) \"Juana Ramírez\"",
+          "location": "Venezuela"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "kZpAlUXgYbPdzLXaLOFT",
+          "platform": "Telegram",
+          "handle": "rafius97",
+          "url": "https://t.me/rafius97"
+        },
+        {
+          "id": "B1yYXg3Pso31vvKT8IgZ",
+          "platform": "GitHub",
+          "handle": "rafael-ab",
+          "url": "https://github.com/rafael-ab"
+        },
+        {
+          "id": "vbtklgbUKYNhv9Q2aJ32",
+          "platform": "LinkedIn",
+          "handle": "raerocor97",
+          "url": "https://linkedin.com/in/raerocor97"
+        }
+      ]
+    }
+  ]
+}
